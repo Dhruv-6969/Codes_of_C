@@ -1,0 +1,4 @@
+Q. Which of the following is invalid in C?
+1. int a; b = a;                 ----> Invalid (b not defined)
+2. int v = 3^3;                  ----> Invalid (^ operator is unknown in C)
+3. char dt = '21 Dec 2020'       ----> Valid

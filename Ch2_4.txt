@@ -1,0 +1,6 @@
+Q. Explain step by step evaluation of 3*x/y-z+k, where x=2, y=3, z=3, k=1.
+Ans. 
+= 3*2/3-3+1
+= 6/3-3+1
+= 2-2
+= 0
